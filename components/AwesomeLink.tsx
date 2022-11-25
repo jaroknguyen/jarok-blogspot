@@ -7,7 +7,7 @@ export const AwesomeLink = ({
   category,
   description,
   id,
-}) => {
+}: any) => {
   return (
     <div key={id} className="shadow  max-w-md  rounded">
       <img src={imageUrl} />
