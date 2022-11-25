@@ -6,7 +6,7 @@ export default function Home() {
     <div>
       <Head>
         <title>Programming Blog</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/logo.png" />
       </Head>
 
       <div className="container mx-auto max-w-5xl my-20">
